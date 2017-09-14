@@ -4,5 +4,5 @@
   "description": "Morphing button",
   "homepage": "https://github.com/codrops/ButtonComponentMorph",
   "license": "MIT",
-  "main": "js/uiMorphingButton_fixed",
+  "main": "js/uiMorphingButton_fixed"
 }
